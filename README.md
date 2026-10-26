@@ -1,5 +1,7 @@
 # Semantic Data Integration Across Multi-Source Warehouses via Star/Snowflake Schema Design with Dimensional Modeling
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=estheru9/university-dw-consolidation&branch=main&mainModule=app.py)
+
 **Domain Application:** University Enterprise Data Warehouse Consolidation  
 **Subject:** Data Mining & Warehousing  
 **Project Guide / Mentor:** Mr. S. V. Swamy  
